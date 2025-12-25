@@ -1,5 +1,5 @@
 # Cocoa小酒保
-自存SillyTavern便捷管理器.
+自存SillyTavern便捷管理器.gem3做ahk转exe.
 
 ## 功能
 1. 静默打开SillyTavern(不显示终端)
