@@ -9,12 +9,12 @@
 ## 使用方法
 文件这样放👇
 
-📂 总文件夹
-├── 📄 Cocoa小酒保.exe
-├── 📂 ST_Manager 
-└── 📂 SillyTavern 👈文件名必须一样
-    ├── 📄 config.yaml
-    └── 📂 ...其他文件
+📂 总文件夹\n
+├── 📄 Cocoa小酒保.exe\n
+├── 📂 ST_Manager \n
+└── 📂 SillyTavern 👈文件名必须一样\n
+    ├── 📄 config.yaml\n
+    └── 📂 ...其他文件\n
 
 创建Cocoa小酒保.exe的快捷方式放在桌面.
 
